@@ -13,7 +13,7 @@
 - Scikit-Learn
 
 # Content
-The exam is divided in 4 main sections:
+The exam is divided in 5 main sections:
 1. Introduction
 2. Data Validation
 3. Exploratory Analysis
