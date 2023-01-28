@@ -1,6 +1,6 @@
 # Data Scientist Associate Practical Exam
 ## Link Certification
-[Data Scientist Associate Certificate]("https://www.datacamp.com/certificate/DSA0018161629833")
+[Data Scientist Associate Certificate](https://www.datacamp.com/certificate/DSA0018161629833)
 
 ## Tools & Libreries used
 - Python
