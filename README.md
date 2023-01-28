@@ -2,6 +2,8 @@
 ## Link Certification
 [Data Scientist Associate Certificate](https://www.datacamp.com/certificate/DSA0018161629833)
 
+[See Practical Exam](https://github.com/roberdd/Data_Scientist_Associate_Test/blob/main/notebook.ipynb)
+
 ## Tools & Libreries used
 - Python
 - Pandas
